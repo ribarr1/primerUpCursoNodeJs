@@ -1,0 +1,15 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "primer control de versiones curso nodejs",
+  "main": "datosv1.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Ibarra ribarr1@gmail.com",
+  "license": "ISC"
+}
